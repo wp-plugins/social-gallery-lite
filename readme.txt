@@ -12,7 +12,7 @@ Social Gallery is the ultimate Social Lightbox Plugin for WordPress. This is the
 
 == Description ==
 
-[Social Gallery](http://www.socialgalleryplugin.com "Social Gallery Plugin") is the ultimate Social Lightbox for WordPress. This is the Lite Version. [>Upgrade Now](http://www.socialgalleryplugin.com/upgrade-to-social-gallery-pro/ "Social Gallery Plugin").
+[Social Gallery](http://www.socialgalleryplugin.com "Social Gallery Plugin") is the ultimate Social Lightbox for WordPress. This is the Lite Version. [Upgrade Now](http://www.socialgalleryplugin.com/upgrade-to-social-gallery-pro/ "Social Gallery Plugin").
 
 With Social Gallery your blog images are social, your visitors can use a familiar “facebook style” lightbox to view, like, comment & share your images.
 Social Gallery gets your blog more traffic and more engagement!
