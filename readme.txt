@@ -10,7 +10,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Social Gallery is the ultimate Social Lightbox Plugin for WordPress. This is the Lite Version.
 
-== Description ==
+== Description == 
 
 [Social Gallery](http://www.socialgalleryplugin.com "Social Gallery Plugin") is the ultimate Social Lightbox for WordPress. This is the Lite Version. [Upgrade Now](http://www.socialgalleryplugin.com/upgrade-to-social-gallery-pro/ "Social Gallery Plugin").
 
