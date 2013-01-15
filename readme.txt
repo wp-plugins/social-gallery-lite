@@ -63,3 +63,7 @@ Here are our frequently asked questions for the [Social Gallery Plugin](http://w
 
 = 2.0 =
 * Original Social Gallery Lite Reelase
+
+== Upgrade Notice ==
+
+Upgrade Here.
