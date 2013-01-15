@@ -1,18 +1,18 @@
 === Social Gallery Lite ===
-Contributors: woodyhayday
+Contributors: woodyhayday, stormgate
 Donate link: http://www.socialgalleryplugin.com
 Tags: social, gallery, comments, lightbox, social lightbox, +1, admin, bookmark, button, buzz, Facebook, facebook like, google, google plus, google plus one, icon, icons, image, images, like, linkedin, linked in, tumblr, stumble upon, twitter, tweet, pinterest, page, pages, posts, plugin, plus 1, plus one, Post, posts, seo, sexybookmarks, sharing, NextGen, social bookmars, stumbleupon, widget, social gallery, gallery share, share, adsense, disqus, css3 animation, CSS3, theme, DFP, Fullscreen, swipe
 Requires at least: 3.1
 Tested up to: 3.5
-Stable tag: 1.0
+Stable tag: 2.0
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Social Gallery is the ultimate Social Lightbox Plugin for WordPress. This is the Lite Version.
 
-== Description ==
+== Description == 
 
-[Social Gallery](http://www.socialgalleryplugin.com "Social Gallery Plugin") is the ultimate Social Lightbox for WordPress. This is the Lite Version. [>Upgrade Now](http://www.socialgalleryplugin.com/upgrade-to-social-gallery-pro/ "Social Gallery Plugin").
+[Social Gallery](http://www.socialgalleryplugin.com "Social Gallery Plugin") is the ultimate Social Lightbox for WordPress. This is the Lite Version. [Upgrade Now](http://www.socialgalleryplugin.com/upgrade-to-social-gallery-pro/ "Social Gallery Plugin").
 
 With Social Gallery your blog images are social, your visitors can use a familiar “facebook style” lightbox to view, like, comment & share your images.
 Social Gallery gets your blog more traffic and more engagement!
@@ -63,3 +63,7 @@ Here are our frequently asked questions for the [Social Gallery Plugin](http://w
 
 = 2.0 =
 * Original Social Gallery Lite Reelase
+
+== Upgrade Notice ==
+
+Upgrade Here.

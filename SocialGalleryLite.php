@@ -3,7 +3,7 @@
 Plugin Name: Social Gallery Lite
 Plugin URI: http://www.socialgalleryplugin.com
 Description: <a href="http://www.socialgalleryplugin.com">Social Gallery</a> is the ultimate Social Lightbox for WordPress. This is the Lite Version. <a href="http://www.socialgalleryplugin.com/upgrade-to-social-gallery-pro/">Upgrade Now</a>.
-Version: 2.0 [Lite]
+Version: 2.0
 Author: StormGate
 Author URI: http://www.stormgate.co.uk
 License: GPL v2
@@ -23,6 +23,8 @@ GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+
 */
 
 #} Check's blog capacity to run Social Gallery
@@ -65,7 +67,7 @@ if ($socialGalleryProof){
 	$socialGalleryLite_urls['comCheck']		= 'http://www.socialgalleryplugin.com/updateEngine/lite/compat/';
 	$socialGalleryLite_urls['newsFeed'] 	= 'http://www.socialgalleryplugin.com/feed/';
 	$socialGalleryLite_urls['gopro'] 		= 'http://www.socialgalleryplugin.com/get-social-gallery-pro';
-	$socialGalleryLite_urls['wporg'] 		= 'http://www.socialgalleryplugin.com'; 	
+	$socialGalleryLite_urls['wporg'] 		= 'http://wordpress.org/extend/plugins/social-gallery-lite/'; 	
 	
 		global $socialGalleryLite_slugs;
 	$socialGalleryLite_slugs['home'] 			= "sgp-plugin-config";
