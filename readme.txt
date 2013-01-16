@@ -51,7 +51,7 @@ Marco La Ferla
 
 = NextGen and Justified Image Grid Compatible? =
 
-*Note:* While out-of-the-box compatibility for NextGen Gallery & Justified Image Grid is not included with Social Gallery Lite it is possible to integrate Social Gallery Lite with these gallery plugins. 
+*Note:* While out-of-the-box compatibility for NextGen Gallery & [Justified Image Grid plugin](http://www.socialgalleryplugin.com/justified-image-grid "Justified Image Grid plugin") is not included with Social Gallery Lite it is possible to integrate Social Gallery Lite with these gallery plugins. 
 There is guides [here](http://www.socialgalleryplugin.com/guide-social-gallery-and-nextgen-gallery-for-wordpress/) and [here](http://www.socialgalleryplugin.com/social-gallery-is-now-compatible-with-justified-image-grid/) but these are for the pro version. To use Social Gallery Lite & NextGen/Justified Image Grid you will need to use the "Specific CSS Selector" setting and write your own CSS selector (there's a brief guide [here](http://www.socialgalleryplugin.com/social-gallery-wordpress-plugin-and-css-selectors/ "Guide: Social Gallery Plugin and CSS Selectors").)
  
 [See more compatible plugins & themes](http://www.socialgalleryplugin.com/compatible-themes-plugins/ "See more compatible WordPress plugins and Themes")  
@@ -73,19 +73,25 @@ You can follow us if you'd like regular updates or news of cool new additions! S
 
 == Installation ==
 
-It’s very quick and easy to install the Social Gallery Wordpress Plugin, simply follow these 4 steps:
+= Installing Social Gallery Lite in 5 steps =
+It’s very quick and easy to install the Social Gallery Wordpress Plugin, simply follow these 5 steps:
 
-1.     Unzip your download and put the “socialGallery” folder somewhere memorable
+1.     Unzip your download and put the “socialGalleryLite” folder somewhere memorable
 
-2.     Upload the “socialGallery” folder into your Wordpress plugins folder
+2.     Upload the “socialGalleryLite” folder into your Wordpress plugins folder
 
-3.     Once fully uploaded you will see the Social Gallery plugin on your plugin’s screen, click “Activate” under its title.
+3.     Once fully uploaded you will see the Social Gallery Lite plugin on your plugin’s screen, click “Activate” under its title.
 
 4.     After activating Social Gallery a new menu item will be added to your side bar. Clicking “Social Gallery” from your side bar will let you configure the plugin.
 
 5.     That's it. Now you can follow the wizard then you're ready to go!
 
+= Installation Problems = 
 If you have any problems installing our plugin please do read <a href="http://codex.wordpress.org/Managing_Plugins">this great guide</a> from Wordpress or alternatively read our <a href="http://www.socialgalleryplugin.com/documentation/lite/index.html#!/quick_start_guide">Quick Start Guide.</a>
+
+= Support = 
+
+Please note that Social Gallery Lite is provided without any guaranteed support - For support please [purchase the full version](http://www.socialgalleryplugin.com/upgrade-to-social-gallery-pro/ "Upgrade to the Full Social Gallery Plugin") and then you can join the members-only [support forum](http://forum.socialgalleryplugin.com "Social Gallery Support Forum").
 
 == Frequently Asked Questions ==
 
@@ -93,19 +99,22 @@ Here are our frequently asked questions for the [Social Gallery Plugin](http://w
 
 = Does Social Gallery work with the NextGen Gallery plugin? =
 
-<strong>Yes.</strong> See [this post](http://www.socialgalleryplugin.com/social-gallery-plugin-works-with-nextgen/ "Social Gallery Plugin works with NextGen!") for how to make it work (you have to change one NextGen option.) In fact from V1.4 [NextGen compatibility is natively integrated into Social Gallery](http://www.socialgalleryplugin.com/guide-social-gallery-and-nextgen-gallery-for-wordpress/ "NextGen compatibility is natively integrated into Social Gallery")!
+**Yes.** See [this post](http://www.socialgalleryplugin.com/social-gallery-plugin-works-with-nextgen/ "Social Gallery Plugin works with NextGen!") for how to make it work (you have to change one NextGen option.) In fact from V1.4 [NextGen compatibility is natively integrated into Social Gallery](http://www.socialgalleryplugin.com/guide-social-gallery-and-nextgen-gallery-for-wordpress/ "NextGen compatibility is natively integrated into Social Gallery")!*
 
-[See Social Gallery &amp; NextGen Gallery In action](http://www.socialgalleryplugin.com/social-gallery-nextgen-gallery-example "See Social Gallery &amp; NextGen Gallery In action")
+[See Social Gallery &amp; NextGen Gallery In action](http://www.socialgalleryplugin.com/social-gallery-nextgen-gallery-example "See Social Gallery &amp; NextGen Gallery In action")  
+*Note: Social Gallery Lite does not have built-in compatibility for NextGen Galleries, though it can work with NextGen. [Upgrade now](http://www.socialgalleryplugin.com/upgrade-to-social-gallery-pro/ "Upgrade to the Full Social Gallery Plugin") for built-in compatibility.
 
-= Does Social Gallery work with the [Justified Image Grid plugin](http://www.socialgalleryplugin.com/justified-image-grid "Justified Image Grid plugin")? =
+= Does Social Gallery work with the Justified Image Grid plugin? =
 
-<strong>Yes.</strong> From V1.4 Justified Image Grid plugin compatibility is natively integrated into Social Gallery! [Guide to using Social Gallery with Justified Image Grid Plugin](http://www.socialgalleryplugin.com/social-gallery-is-now-compatible-with-justified-image-grid/ "Guide to using Social Gallery with Justified Image Grid Plugin")
+**Yes.** From V1.4 [Justified Image Grid plugin](http://www.socialgalleryplugin.com/justified-image-grid "Justified Image Grid plugin") compatibility is natively integrated into Social Gallery! [Guide to using Social Gallery with Justified Image Grid Plugin](http://www.socialgalleryplugin.com/social-gallery-is-now-compatible-with-justified-image-grid/ "Guide to using Social Gallery with Justified Image Grid Plugin")*
 
-[See Social Gallery &amp; Justified Image Grid (JIG) In action](http://www.socialgalleryplugin.com/social-gallery-justified-image-grid-examples "See Social Gallery &amp; Justified Image Grid (JIG) In action")
+[See Social Gallery &amp; Justified Image Grid (JIG) In action](http://www.socialgalleryplugin.com/social-gallery-justified-image-grid-examples "See Social Gallery &amp; Justified Image Grid (JIG) In action")  
+*Note: Social Gallery Lite does not have built-in compatibility for [Justified Image Grid plugin](http://www.socialgalleryplugin.com/justified-image-grid "Justified Image Grid plugin"), though it can work with JIG. [Upgrade now](http://www.socialgalleryplugin.com/upgrade-to-social-gallery-pro/ "Upgrade to the Full Social Gallery Plugin") for built-in compatibility.
+
 
 = Does Social Gallery work with the In-Post WordPress Galleries? =
 
-<strong>Yes.</strong> Provided you make sure your galleries are set to point image links towards “Image Files” and not “attachment pages” Social Gallery works well with the default in-post WordPress Galleries.
+**Yes.** Provided you make sure your galleries are set to point image links towards “Image Files” and not “attachment pages” Social Gallery works well with the default in-post WordPress Galleries.
 
 [See Social Gallery &amp; WordPress Gallery In action](http://www.socialgalleryplugin.com/social-gallery-wordpress-gallery-example/ "See Social Gallery &amp; WordPress Gallery In Action")
 
@@ -115,9 +124,9 @@ Here are our frequently asked questions for the [Social Gallery Plugin](http://w
 
 == Changelog ==
 
-= 2.0 =
-* Original Social Gallery Lite Reelase
+= Version 2.0 =
+* Original Social Gallery Lite Release
 
 == Upgrade Notice ==
 
-Upgrade Here.
+Original Social Gallery Lite Release
