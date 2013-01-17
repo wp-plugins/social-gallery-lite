@@ -11,6 +11,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Social Gallery is the Ultimate Social Lightbox Plugin for WordPress. This is the Lite Version.
 
 == Description == 
+= The Ultimate Social Lightbox Plugin for WordPress =
 
 That's right – you can now get a Lite version of the best-selling [Social Gallery](http://www.socialgalleryplugin.com "Social Gallery Plugin") for Free!  
 It’s not quite as [feature packed](http://www.socialgalleryplugin.com/social-gallery-feature-list/ "Social Gallery Features") as [Social Gallery Pro](http://www.socialgalleryplugin.com "Social Gallery Plugin") but it’s still kick ass. If you are looking to test out Social Gallery or your on a small (or zero) budget you can get a copy here, just click the red "Download Version 2.0" button above ^
@@ -26,10 +27,10 @@ It’s not quite as [feature packed](http://www.socialgalleryplugin.com/social-g
 *   Multiple browser’s supported
 *   IE 7+, IE10, Safari 3+, iOS Safari, Chrome 3+, Firefox 3+, Opera 10+
 *   5 Preset Compatibility "Modes"
-*	**It's Free**
+*	**It's Free**!
 
 
-[Social Gallery](http://www.socialgalleryplugin.com "Social Gallery Plugin") is the original *Social Lightbox* for WordPress. In this Lite version you get a usable Social Lightbox which is the product of many hours development - v2.0 represents hundreds of tweaks, fixes and improvements, handfuls of new features have been added to the premium v2.0 and this has made for a better "Lite" version too. While this version doesn't have all the bells and whistles of the pro version it is still very usable! You don't ever *have* to upgrade, but you can any time you want [here](http://www.socialgalleryplugin.com/upgrade-to-social-gallery-pro/ "Upgrade to the Full Social Gallery Plugin").
+[Social Gallery](http://www.socialgalleryplugin.com "Social Gallery Plugin") is the original *Social Lightbox* for WordPress. In this Lite version you get a usable Social Lightbox which is the product of many hours development - v2.0 represents hundreds of tweaks, fixes and improvements, handfuls of new features have been added to the premium v2.0 and this has made for a better "Lite" version too. While this version doesn't have all the bells and whistles of the pro version it is still very usable! You don't ever *have* to upgrade, but you can any time you want [here](http://www.socialgalleryplugin.com/upgrade-to-social-gallery-pro/ "Upgrade to the Full Social Gallery Plugin") and you can see the benefits [here](http://www.socialgalleryplugin.com/upgrade-to-social-gallery-pro/ "Upgrade to the Full Social Gallery Plugin").
 
 With Social Gallery your blog images are social, your visitors can use a familiar "facebook style" lightbox to view, like, comment & share your images. Social Gallery gets your blog more traffic and more engagement as well as offering a fantastic clean & poweful lightbox to boot.
 
@@ -47,7 +48,10 @@ Patric, iamstyleicious.com
 `Already voted 5 stars man, love this plugin!`
 Marco La Ferla
 
-[Read more customer reviews](http://www.socialgalleryplugin.com/social-gallery-user-reviews-feedback/ "Read more customer reviews")
+`Best Gallery Share Plugin around!`
+Arnold Dirst
+
+[Read many more customer reviews](http://www.socialgalleryplugin.com/social-gallery-user-reviews-feedback/ "Read more Social Gallery Reviews")
 
 
 = NextGen and Justified Image Grid Compatible? =
