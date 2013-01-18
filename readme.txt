@@ -36,7 +36,7 @@ With Social Gallery your blog images are social, your visitors can use a familia
 
 = Customer Reviews (from Social Gallery Pro) = 
 
-`I’m very happy with the plugin. I think it’s genius`
+`I’m very happy with the plugin. I think its genius`
 Heather Wood, Ravenous Raven Design
 
 `It worked perfectly! It’s amazing plugin! Congratulations!`
