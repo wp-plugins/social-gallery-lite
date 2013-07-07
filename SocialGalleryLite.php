@@ -3,13 +3,13 @@
 Plugin Name: Social Gallery Lite
 Plugin URI: http://www.socialgalleryplugin.com
 Description: <a href="http://www.socialgalleryplugin.com">Social Gallery</a> is the ultimate Social Lightbox for WordPress. This is the Lite Version. <a href="http://www.socialgalleryplugin.com/upgrade-to-social-gallery-pro/">Upgrade Now</a>.
-Version: 2.0
+Version: 2.01
 Author: StormGate
-Author URI: http://www.stormgate.co.uk
+Author URI: http://www.epicplugins.com
 License: GPL v2
 
 WordPress Lightbox Plugin
-Copyright (C) 20012-2013, StormGate Ltd. - http://www.stormgate.co.uk
+Copyright (C) 20012-2013, StormGate Ltd. - http://www.epicplugins.com
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -464,6 +464,8 @@ function sgp010f9_html(){
                 <div id="Adverts">Adverts</div>
             </div>
             <div id="socialGallerySettingsPage">
+            	<h4>Social Video is now available from CodeCanyon</h4>
+				<a href = "http://goo.gl/QC8AQ"><img src = "http://epicplugins.com/wp-content/uploads/2013/07/sgv-banner.png" /></a>
             
             
                 <div id="socialGalleryPageGeneral" class="socialGalleryPage socialGalleryPageActive">

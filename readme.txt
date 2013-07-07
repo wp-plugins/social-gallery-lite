@@ -3,8 +3,8 @@ Contributors: woodyhayday, stormgate, mikemayhem3030
 Donate link: http://www.socialgalleryplugin.com
 Tags: social, gallery, comments, lightbox, social lightbox, +1, admin, bookmark, button, buzz, Facebook, facebook like, google, google plus, google plus one, icon, icons, image, images, like, linkedin, linked in, tumblr, stumble upon, twitter, tweet, pinterest, page, pages, posts, plugin, plus 1, plus one, Post, posts, seo, sexybookmarks, sharing, NextGen, social bookmars, stumbleupon, widget, social gallery, gallery share, share, adsense, disqus, css3 animation, CSS3, theme, DFP, Fullscreen, swipe, ie, chrome, firefox, opera, jquery, light-box, social sharing, compatibility, free, analytics
 Requires at least: 3.1
-Tested up to: 3.5
-Stable tag: 2.0
+Tested up to: 3.52
+Stable tag: 2.01
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -14,7 +14,17 @@ Social Gallery is the Ultimate Social Lightbox Plugin for WordPress. This is the
 = The Ultimate Social Lightbox Plugin for WordPress =
 
 That's right – you can now get a Lite version of the best-selling [Social Gallery](http://www.socialgalleryplugin.com "Social Gallery Plugin") for Free!  
-It’s not quite as [feature packed](http://www.socialgalleryplugin.com/social-gallery-feature-list/ "Social Gallery Features") as [Social Gallery Pro](http://www.socialgalleryplugin.com "Social Gallery Plugin") but it’s still kick ass. If you are looking to test out Social Gallery or your on a small (or zero) budget you can get a copy here, just click the red "Download Version 2.0" button above ^
+It’s not quite as [feature packed](http://www.socialgalleryplugin.com/social-gallery-feature-list/ "Social Gallery Features") as [Social Gallery Pro](http://www.socialgalleryplugin.com "Social Gallery Plugin") but it’s still kick ass. If you are looking to test out Social Gallery or your on a small (or zero) budget you can get a copy here, just click the red "Download Version 2.01" button above ^
+
+= BRAND NEW FROM JULY 2013 =
+
+Epicplugins has acquired the Social Gallery suite of plugins and is driving forward the development. What's NEW?!
+
+*[Support Forum Now Available](http://forums.epicplugins.com/)
+*[Social Gallery VIDEO developed](http://goo.gl/QC8AQ)
+*Happier users!
+*Pride of the mantlepiece over at [Epicplugins](http://epicplugins.com/)
+
 
 = Killer features of Social Gallery Lite =
 *   The Ultimate Social Lightbox
