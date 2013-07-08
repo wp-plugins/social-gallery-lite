@@ -3,7 +3,7 @@
 Plugin Name: Social Gallery Lite
 Plugin URI: http://www.socialgalleryplugin.com
 Description: <a href="http://www.socialgalleryplugin.com">Social Gallery</a> is the ultimate Social Lightbox for WordPress. This is the Lite Version. <a href="http://www.socialgalleryplugin.com/upgrade-to-social-gallery-pro/">Upgrade Now</a>.
-Version: 2.01
+Version: 2.02
 Author: StormGate
 Author URI: http://www.epicplugins.com
 License: GPL v2
@@ -464,9 +464,6 @@ function sgp010f9_html(){
                 <div id="Adverts">Adverts</div>
             </div>
             <div id="socialGallerySettingsPage">
-            	<h4>Social Video is now available from CodeCanyon</h4>
-				<a href = "http://goo.gl/QC8AQ"><img src = "http://epicplugins.com/wp-content/uploads/2013/07/sgv-banner.png" /></a>
-            
             
                 <div id="socialGalleryPageGeneral" class="socialGalleryPage socialGalleryPageActive">
            			<h3>General Settings</h3>
@@ -966,6 +963,24 @@ function sgpc1a_html(){
 		 <a href="https://plus.google.com/share?url=http://www.socialgalleryplugin.com" target="_blank"><img src="<?php echo plugins_url('/i/gp.png',__FILE__); ?>" alt="" title="Share this on Google+1" /></a>
          			</div>
                 </div>
+            </div>
+   </div>
+   
+    <div class="postbox-container" id="side-container" style="width:24%;margin-left:1%">
+            <div class="postbox">
+                <h3 style="padding:8px;"><label><?php _e('Our sponsors'); ?></label></h3>
+                <div class="inside">
+					<script type="text/javascript"><!--
+					google_ad_client = "ca-pub-3482971524802798";
+					/* My Smash */
+					google_ad_slot = "8443033997";
+					google_ad_width = 250;
+					google_ad_height = 250;
+					//-->
+					</script>
+					<script type="text/javascript"
+					src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+					</script>
             </div>
    </div>
    
