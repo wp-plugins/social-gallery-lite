@@ -23,6 +23,7 @@ Epicplugins has acquired the Social Gallery suite of plugins and is driving forw
 *   [Support Forum Now Available](http://forums.epicplugins.com/)
 *   [Social Gallery VIDEO developed](http://goo.gl/QC8AQ)
 *   Happier users!
+*   [Setup Tutorial Guides](epicplugins.com/social-gallery-photo-tutorials/)
 *   Pride of the mantlepiece over at [Epicplugins](http://epicplugins.com/)
 
 
