@@ -1,5 +1,5 @@
 === Social Gallery Lite ===
-Contributors: woodyhayday, stormgate, mikemayhem3030
+Contributors: mikemayhem3030
 Donate link: http://www.socialgalleryplugin.com
 Tags: social, gallery, comments, lightbox, social lightbox, +1, admin, bookmark, button, buzz, Facebook, facebook like, google, google plus, google plus one, icon, icons, image, images, like, linkedin, linked in, tumblr, stumble upon, twitter, tweet, pinterest, page, pages, posts, plugin, plus 1, plus one, Post, posts, seo, sexybookmarks, sharing, NextGen, social bookmars, stumbleupon, widget, social gallery, gallery share, share, adsense, disqus, css3 animation, CSS3, theme, DFP, Fullscreen, swipe, ie, chrome, firefox, opera, jquery, light-box, social sharing, compatibility, free, analytics
 Requires at least: 3.1
@@ -23,7 +23,7 @@ Epicplugins has acquired the Social Gallery suite of plugins and is driving forw
 *   [Support Forum Now Available](http://forums.epicplugins.com/)
 *   [Social Gallery VIDEO developed](http://goo.gl/QC8AQ)
 *   Happier users!
-*   [Setup Tutorial Guides](epicplugins.com/social-gallery-photo-tutorials/)
+*   [Setup Tutorial Guides](http://epicplugins.com/social-gallery-photo-tutorials/)
 *   Pride of the mantlepiece over at [Epicplugins](http://epicplugins.com/)
 
 
