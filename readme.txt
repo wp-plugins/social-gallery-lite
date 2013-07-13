@@ -40,8 +40,8 @@ Epicplugins has acquired the Social Gallery suite of plugins and is driving forw
 *   5 Preset Compatibility "Modes"
 *	**It's Free**!
 
-= 17,500 + Blogs running Social Gallery! =
-*	Over 16,000 downloads of Social Gallery Lite
+= 18,000 + Blogs running Social Gallery! =
+*	Over 16,500 downloads of Social Gallery Lite
 *	Over 1,500 copies sold of [Social Gallery Pro](http://www.socialgalleryplugin.com "Social Gallery Plugin")
 *	Thanks to all of you awesome users!
 
