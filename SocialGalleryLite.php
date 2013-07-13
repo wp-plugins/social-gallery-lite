@@ -3,13 +3,13 @@
 Plugin Name: Social Gallery Lite
 Plugin URI: http://www.socialgalleryplugin.com
 Description: <a href="http://www.socialgalleryplugin.com">Social Gallery</a> is the ultimate Social Lightbox for WordPress. This is the Lite Version. <a href="http://www.socialgalleryplugin.com/upgrade-to-social-gallery-pro/">Upgrade Now</a>.
-Version: 2.1
+Version: 2.1.1
 Author: epicplugins
 Author URI: http://www.epicplugins.com
 License: GPL v2
 
 WordPress Lightbox Plugin
-Copyright (C) 20012-2013, StormGate Ltd. - http://www.epicplugins.com
+Copyright (C) 20012-2013, Epic Plugins. - http://www.epicplugins.com
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -441,7 +441,7 @@ function sgp010f9_html(){
 	
 	global $wpdb, $socialGalleryLite_db_version, $socialGalleryLite_version, $socialGalleryLite_t, $socialGalleryLite_urls, $socialGalleryLite_slugs;	    
 	$sgConfig = array();
-	$sgConfig['selectorType'] = 			get_option('socialGalleryLite_selectorType');			    $sgConfig['selector'] = 				get_option('socialGalleryLite_selector');				    $sgConfig['bgColor'] = 					get_option('socialGalleryLite_bgColor');				    $sgConfig['bgOpacity'] = 				get_option('socialGalleryLite_bgOpacity');				    $sgConfig['bottomBar'] = 				get_option('socialGalleryLite_bottomBar');				    $sgConfig['headerBox'] = 				get_option('socialGalleryLite_headerBox');				    $sgConfig['headerBoxType'] = 			get_option('socialGalleryLite_headerBoxType');			    $sgConfig['headerBoxHTML'] = 			get_option('socialGalleryLite_headerBoxHTML');			    $sgConfig['headerImg'] = 				get_option('socialGalleryLite_headerImg');				    $sgConfig['incDesc'] = 					get_option('socialGalleryLite_incDesc');				    $sgConfig['incFB'] = 					get_option('socialGalleryLite_incFB');					    $sgConfig['incFBFaces'] = 				get_option('socialGalleryLite_incFBFaces');				    $sgConfig['incFBComments'] = 			get_option('socialGalleryLite_incFBComments');			    $sgConfig['incFBCommentAppID'] = 		get_option('socialGalleryLite_incFBAppID');				    $sgConfig['backAndForth'] = 			get_option('socialGalleryLite_backAndForth');			    $sgConfig['incFBSRC'] = 				get_option('socialGalleryLite_incFBSRC');				    $sgConfig['incHomeCall'] = 				get_option('socialGalleryLite_incHomeCall');				$sgConfig['autoDisableNextGen'] = 		get_option('socialGalleryLite_autoDisableNextGen');			$sgConfig['upscaleFactor'] = 			get_option('socialGalleryLite_upscaleFactor');				$sgConfig['marginBounds'] = 			get_option('socialGalleryLite_marginBounds');				
+	$sgConfig['selectorType'] = 			get_option('socialGalleryLite_selectorType');			    $sgConfig['selector'] = 				get_option('socialGalleryLite_selector');				    $sgConfig['bgColor'] = 					get_option('socialGalleryLite_bgColor');				    $sgConfig['bgOpacity'] = 				get_option('socialGalleryLite_bgOpacity');				    $sgConfig['bottomBar'] = 				get_option('socialGalleryLite_bottomBar');				    $sgConfig['headerBox'] = 				get_option('socialGalleryLite_headerBox');				    $sgConfig['headerBoxType'] = 			get_option('socialGalleryLite_headerBoxType');			    $sgConfig['headerBoxHTML'] = 			get_option('socialGalleryLite_headerBoxHTML');			    $sgConfig['headerImg'] = 				get_option('socialGalleryLite_headerImg');				    $sgConfig['incDesc'] = 					get_option('socialGalleryLite_incDesc');				    $sgConfig['incFB'] = 					get_option('socialGalleryLite_incFB');					    $sgConfig['incFBFaces'] = 				get_option('socialGalleryLite_incFBFaces');				    $sgConfig['incFBComments'] = 			get_option('socialGalleryLite_incFBComments');			    $sgConfig['incFBAppID'] = 		get_option('socialGalleryLite_incFBAppID');				    $sgConfig['backAndForth'] = 			get_option('socialGalleryLite_backAndForth');			    $sgConfig['incFBSRC'] = 				get_option('socialGalleryLite_incFBSRC');				    $sgConfig['incHomeCall'] = 				get_option('socialGalleryLite_incHomeCall');				$sgConfig['autoDisableNextGen'] = 		get_option('socialGalleryLite_autoDisableNextGen');			$sgConfig['upscaleFactor'] = 			get_option('socialGalleryLite_upscaleFactor');				$sgConfig['marginBounds'] = 			get_option('socialGalleryLite_marginBounds');				
 	$sgConfig['FBAdmins'] = get_option('socialGalleryLite_FBAdmins');
 	$nextGenOptions = array("6","7","8","9");
 	
@@ -1497,7 +1497,10 @@ function SGLite_custom_add_facebook_open_graph_tags() {
     ob_start();
 	
 ?> 
-<meta property="fb:admins" content="<?php echo get_option('socialGalleryLite_FBAdmins'); ?>" />			
+<meta property="fb:app_id" content="<?php echo get_option('socialGalleryLite_incFBAppID'); ?>" />	
+<meta property="fb:admins" content="<?php echo get_option('socialGalleryLite_FBAdmins'); ?>" />		
+
+	
 <?php 
     $content = ob_get_contents();
     ob_end_clean();
