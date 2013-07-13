@@ -144,6 +144,10 @@ Here are our frequently asked questions for the [Social Gallery Plugin](http://w
 
 == Changelog ==
 
+= Version 2.1 = 
+* Fixes FB Admin saving issue
+* Tweaks logo sizes
+
 = Version 2.0 =
 * Original Social Gallery Lite Release
 
