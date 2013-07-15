@@ -44,6 +44,7 @@ Epicplugins has acquired the Social Gallery suite of plugins and is driving forw
 *	Over 17,000 downloads of Social Gallery Lite
 *	Over 1,500 copies sold of [Social Gallery Pro](http://www.socialgalleryplugin.com "Social Gallery Plugin")
 *	Thanks to all of you awesome users!
+*  Please do rate the plugin :)
 
 [Social Gallery](http://www.socialgalleryplugin.com "Social Gallery Plugin") is the original *Social Lightbox* for WordPress. In this Lite version you get a usable Social Lightbox which is the product of many hours development - v2.0 represents hundreds of tweaks, fixes and improvements, handfuls of new features have been added to the premium v2.0 and this has made for a better "Lite" version too. While this version doesn't have all the bells and whistles of the pro version it is still very usable! You don't ever *have* to upgrade, but you can any time you want [here](http://www.socialgalleryplugin.com/upgrade-to-social-gallery-pro/ "Upgrade to the Full Social Gallery Plugin") and you can see the benefits [here](http://www.socialgalleryplugin.com/upgrade-to-social-gallery-pro/ "Upgrade to the Full Social Gallery Plugin").
 
