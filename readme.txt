@@ -21,6 +21,7 @@ It’s not quite as [feature packed](http://www.socialgalleryplugin.com/social-g
 Epicplugins has acquired the Social Gallery suite of plugins and is driving forward the development. What's NEW?!
 
 *   [Support Forum Now Available](http://forums.epicplugins.com/)
+*   [Social Image Tagger Now Available](http://goo.gl/qdntTO)
 *   [Social Gallery VIDEO developed](http://goo.gl/QC8AQ)
 *   [Social Shortcodes is here](http://goo.gl/Iujb8Z)
 *   Happier users!
@@ -41,9 +42,9 @@ Epicplugins has acquired the Social Gallery suite of plugins and is driving forw
 *   5 Preset Compatibility "Modes"
 *	**It's Free**!
 
-= 20,000 + Blogs running Social Gallery! =
-*	Over 18,400 downloads of Social Gallery Lite
-*	Over 1,600 copies sold of [Social Gallery Pro](http://www.socialgalleryplugin.com "Social Gallery Plugin")
+= 24,000 + Blogs running Social Gallery! =
+*	Over 22,600 downloads of Social Gallery Lite
+*	Over 1,900 copies sold of [Social Gallery Pro](http://www.socialgalleryplugin.com "Social Gallery Plugin")
 *	Thanks to all of you awesome users!
 *  Please do rate the plugin :)
 
