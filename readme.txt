@@ -16,7 +16,13 @@ Social Gallery is the Ultimate Social Lightbox Plugin for WordPress. This is the
 That's right – you can now get a Lite version of the best-selling [Social Gallery](http://www.socialgalleryplugin.com "Social Gallery Plugin") for Free!  
 It’s not quite as [feature packed](http://www.socialgalleryplugin.com/social-gallery-feature-list/ "Social Gallery Features") as [Social Gallery Pro](http://www.socialgalleryplugin.com "Social Gallery Plugin") but it’s still kick ass. If you are looking to test out Social Gallery or your on a small (or zero) budget you can get a copy here, just click the red "Download Version 2.1" button above ^
 
-= BRAND NEW FROM JULY 2013 =
+== VERSION 3.0 of Social Gallery PRO released ==
+
+Social Gallery PRO has just had a major new update, now you can
+
+* Tag your friends in your images
+* Automatically detect faces in your images
+* Plus much much more...
 
 Epicplugins has acquired the Social Gallery suite of plugins and is driving forward the development. What's NEW?!
 
