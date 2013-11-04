@@ -20,6 +20,14 @@ Epicplugins has acquired the Social Gallery suite of plugins and is driving forw
 
 == What's NEW?! ==
 
+Version 3 of [Social Gallery Pro](http://www.socialgalleryplugin.com "Social Gallery Plugin") has been released with a load of new features
+
+*  Image tagging
+*  Face detection
+*  Improved functionality
+
+Along with our usual powerful
+
 *   [Support Forum Now Available](http://forums.epicplugins.com/)
 *   [Social Image Tagger Now Available](http://goo.gl/qdntTO)
 *   [Social Gallery VIDEO developed](http://goo.gl/QC8AQ)
@@ -42,9 +50,9 @@ Epicplugins has acquired the Social Gallery suite of plugins and is driving forw
 *   5 Preset Compatibility "Modes"
 *	**It's Free**!
 
-= 24,000 + Blogs running Social Gallery! =
-*	Over 22,600 downloads of Social Gallery Lite
-*	Over 1,900 copies sold of [Social Gallery Pro](http://www.socialgalleryplugin.com "Social Gallery Plugin")
+= 26,000 + Blogs running Social Gallery! =
+*	Over 24,000 downloads of Social Gallery Lite
+*	Over 2,000 copies sold of [Social Gallery Pro](http://www.socialgalleryplugin.com "Social Gallery Plugin")
 *	Thanks to all of you awesome users!
 *  Please do rate the plugin :)
 
