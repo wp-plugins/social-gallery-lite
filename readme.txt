@@ -18,13 +18,12 @@ It’s not quite as [feature packed](http://www.socialgalleryplugin.com/social-g
 
 Epicplugins has acquired the Social Gallery suite of plugins and is driving forward the development. 
 
-== What's NEW?! ==
 
-Version 3 of [Social Gallery Pro](http://www.socialgalleryplugin.com "Social Gallery Plugin") has been released with a load of new features
+Version 3 of [Social Gallery Pro](http://www.socialgalleryplugin.com) has been released with a load of new features
 
-*  Image tagging
-*  Face detection
-*  Improved functionality
+*   Image tagging
+*   Face detection
+*   Improved functionality
 
 Along with our usual powerful
 
