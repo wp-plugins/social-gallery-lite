@@ -2,8 +2,8 @@
 /*
 Plugin Name: Social Gallery Lite
 Plugin URI: http://www.socialgalleryplugin.com
-Description: <a href="http://www.socialgalleryplugin.com">Social Gallery</a> is the ultimate Social Lightbox for WordPress. This is the Lite Version. <a href="http://www.socialgalleryplugin.com/upgrade-to-social-gallery-pro/">Upgrade Now</a>.
-Version: 2.1.1
+Description: <a href="http://www.socialgalleryplugin.com">Social Gallery</a> is the ultimate Social Lightbox for WordPress. This is the Lite Version. <a href="http://www.socialgalleryplugin.com/upgrade-to-social-gallery-pro/">Upgrade Now</a> for image tagging, face detection and lots more share and social features. One time purchase, free updates for life!!
+Version: 2.2
 Author: epicplugins
 Author URI: http://www.epicplugins.com
 License: GPL v2
@@ -51,8 +51,8 @@ if ($socialGalleryProof){
 					
 
 		global $socialGalleryLite_db_version;
-	$socialGalleryLite_db_version 			= "2.0";
-	$socialGalleryLite_version 				= "2.0 Lite";
+	$socialGalleryLite_db_version 			= "2.2";
+	$socialGalleryLite_version 				= "2.2 Lite";
 	
 		global $socialGalleryLite_urls;
 	$socialGalleryLite_urls['home'] 		= "http://www.socialgalleryplugin.com";
@@ -117,6 +117,28 @@ function sgp08b(){
 	
 }
 
+
+/* Display a notice that can be dismissed */
+add_action('admin_notices', 'sg_lite_admin_notice');
+function sg_lite_admin_notice() {
+	global $current_user ;
+        $user_id = $current_user->ID;
+        /* Check that the user hasn't already clicked to ignore the message */
+	if ( ! get_user_meta($user_id, 'sg_lite_ignore_notice') ) {
+        echo '<div class="updated"><p>';
+        printf(__('Want to make your website even more epic then buy a copy of <strong><a href = "http://www.socialgalleryplugin.com/get-social-gallery/">Social Gallery Pro</a></strong> and <strong><a href = "http://www.socialgalleryplugin.com/get-social-gallery-video/">Social Gallery Video Viewer</a></strong>  <a href="%1$s" style = "float:right">Hide Notice</a>'), '?example_nag_ignore=0');
+        echo "</p></div>";
+	}
+}
+add_action('admin_init', 'sg_lite_nag_ignore');
+function sg_lite_nag_ignore() {
+	global $current_user;
+        $user_id = $current_user->ID;
+        /* If user clicks to ignore the notice, add that to their user meta */
+        if ( isset($_GET['sg_lite_nag_ignore']) && '0' == $_GET['sg_lite_nag_ignore'] ) {
+             add_user_meta($user_id, 'sg_lite_ignore_notice', 'true', true);
+	}
+}
 
 function sgpeb11c(){
 	
@@ -446,7 +468,11 @@ function sgp010f9_html(){
 	$nextGenOptions = array("6","7","8","9");
 	
 	sgpbeaa2();
-
+	
+   ?>
+   
+  
+   <?php 
     global $socialGallerySavedSettingsFlag; if (isset($socialGallerySavedSettingsFlag)) if ($socialGallerySavedSettingsFlag) sgp96bf(0,"Saved options");
 	
 	$premiumMsg = '<div class="socGalPremium">This Feature is only available in the Full Version. <a href="'.$socialGalleryLite_urls['gopro'].'">Get Social Gallery Pro</a></div>';
@@ -1066,6 +1092,9 @@ function sgp1bf8a8c(){}					function sgpbeaa2(){
 		<a href="<?php echo $socialGalleryLite_urls['subscribe']; ?>" title="Join the Updates Newsletter List" target="_blank">Join Update List</a> | 
 		<a href="<?php echo $socialGalleryLite_urls['gopro']; ?>" title="Become a Pro" target="_blank">Get Full Version</a> | Version <?php echo $socialGalleryLite_version; ?>
     </div>
+       <div class = 'sgRHS'>
+	<a href = "http://www.socialgalleryplugin.com/video/" target = "_blank"><img src = '<?php echo plugins_url('i/banner1.png',__FILE__); ?>' /></a> 
+  </div>
     <?php 	
 	
 	
@@ -1312,7 +1341,7 @@ function sgpa2e(){
 				}		
 				
 				
-			} else sgp96bf(1,"Social Gallery was unable to reach the update server to check for the latest version!");		
+			} else echo "";		
 			
 		} else {
 			
