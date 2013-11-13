@@ -3,8 +3,8 @@ Contributors: mikemayhem3030
 Donate link: http://www.socialgalleryplugin.com
 Tags: social, gallery, comments, lightbox, social lightbox, +1, admin, bookmark, button, buzz, Facebook, facebook like, google, google plus, google plus one, icon, icons, image, images, like, linkedin, linked in, tumblr, stumble upon, twitter, tweet, pinterest, page, pages, posts, plugin, plus 1, plus one, Post, posts, seo, sexybookmarks, sharing, NextGen, social bookmars, stumbleupon, widget, social gallery, gallery share, share, adsense, disqus, css3 animation, CSS3, theme, DFP, Fullscreen, swipe, ie, chrome, firefox, opera, jquery, light-box, social sharing, compatibility, free, analytics
 Requires at least: 3.1
-Tested up to: 3.52
-Stable tag: 2.1
+Tested up to: 3.7.1
+Stable tag: 2.2
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -50,7 +50,7 @@ Along with our usual powerful
 *	**It's Free**!
 
 = 26,000 + Blogs running Social Gallery! =
-*	Over 24,000 downloads of Social Gallery Lite
+*	Over 24,800 downloads of Social Gallery Lite
 *	Over 2,000 copies sold of [Social Gallery Pro](http://www.socialgalleryplugin.com "Social Gallery Plugin")
 *	Thanks to all of you awesome users!
 *  Please do rate the plugin :)
