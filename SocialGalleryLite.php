@@ -3,7 +3,7 @@
 Plugin Name: Social Gallery Lite
 Plugin URI: http://www.socialgalleryplugin.com
 Description: <a href="http://www.socialgalleryplugin.com">Social Gallery</a> is the ultimate Social Lightbox for WordPress. This is the Lite Version. <a href="http://www.socialgalleryplugin.com/upgrade-to-social-gallery-pro/">Upgrade Now</a> for image tagging, face detection and lots more share and social features. One time purchase, free updates for life!!
-Version: 2.2.1
+Version: 2.2.2
 Author: epicplugins
 Author URI: http://www.epicplugins.com
 License: GPL v2
@@ -126,7 +126,7 @@ function sg_lite_admin_notice() {
         /* Check that the user hasn't already clicked to ignore the message */
 	if ( ! get_user_meta($user_id, 'sg_lite_ignore_notice') ) {
         echo '<div class="updated"><p>';
-        printf(__('Find out how a user boosted their site pageviews 10x <strong><a href = "http://epicplugins.com/social-gallery-proof-it-just-works/">Read How</a></strong>  <a href="%1$s" style = "float:right">Hide Notice</a>'), '?example_nag_ignore=0');
+        printf(__('Find out how a user boosted their site pageviews 10x <strong><a href = "http://epicplugins.com/social-gallery-proof-it-just-works/">Read How</a></strong>  <a href="%1$s" style = "float:right">Hide Notice</a>'), '?sg_lite_nag_ignore=0');
         echo "</p></div>";
 	}
 }
