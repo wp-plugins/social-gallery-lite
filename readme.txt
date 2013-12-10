@@ -22,7 +22,6 @@ Epicplugins has acquired the Social Gallery suite of plugins and is driving forw
 Version 3 of [Social Gallery Pro](http://www.socialgalleryplugin.com) has been released with a load of new features
 
 *   Image tagging
-*   Face detection
 *   Improved functionality
 
 Along with our usual powerful
