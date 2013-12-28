@@ -3,7 +3,7 @@
 Plugin Name: Social Gallery Lite
 Plugin URI: http://www.socialgalleryplugin.com
 Description: <a href="http://www.socialgalleryplugin.com">Social Gallery</a> is the ultimate Social Lightbox for WordPress. This is the Lite Version. <a href="http://www.socialgalleryplugin.com/upgrade-to-social-gallery-pro/">Upgrade Now</a> for image tagging, face detection and lots more share and social features. One time purchase, free updates for life!!
-Version: 2.2.2
+Version: 2.2.3
 Author: epicplugins
 Author URI: http://www.epicplugins.com
 License: GPL v2
@@ -65,7 +65,7 @@ if ($socialGalleryProof){
 	$socialGalleryLite_urls['updateCheck']	= 'http://www.socialgalleryplugin.com/updateEngine/lite/';
 	$socialGalleryLite_urls['regCheck']		= 'http://www.socialgalleryplugin.com/updateEngine/lite/registration/';
 	$socialGalleryLite_urls['comCheck']		= 'http://www.socialgalleryplugin.com/updateEngine/lite/compat/';
-	$socialGalleryLite_urls['newsFeed'] 	= 'http://www.socialgalleryplugin.com/feed/';
+	$socialGalleryLite_urls['newsFeed'] 	= 'http://www.epicplugins.com/feed/';
 	$socialGalleryLite_urls['gopro'] 		= 'http://www.socialgalleryplugin.com/get-social-gallery-pro';
 	$socialGalleryLite_urls['wporg'] 		= 'http://wordpress.org/extend/plugins/social-gallery-lite/'; 	
 	
@@ -142,7 +142,7 @@ function sg_lite_nag_ignore() {
 
 function sgpeb11c(){
 	
-	    delete_option("socialGalleryLite_db_version");
+    delete_option("socialGalleryLite_db_version");
     delete_option("socialGalleryLite_version"); 
     delete_option("socialGalleryLite_reg");	
 	
@@ -158,9 +158,8 @@ function sgpbb28d9(){
 	
 		if (is_admin() && sgp061d431()) {
 		
-				wp_enqueue_style('socialGalleryPluginLiteCSSADM', plugins_url('/css/socialGalleryPluginLiteAdmin.css',__FILE__) );
-		
-				wp_enqueue_script('media-upload');
+		wp_enqueue_style('socialGalleryPluginLiteCSSADM', plugins_url('/css/socialGalleryPluginLiteAdmin.css',__FILE__) );
+		wp_enqueue_script('media-upload');
 		wp_enqueue_script('thickbox');
 		wp_register_script('socialGalleryPluginLiteJSADM', plugins_url('/js/socialGalleryPluginLiteAdmin.js',__FILE__), array('jquery','media-upload','thickbox') );
 		wp_enqueue_script('socialGalleryPluginLiteJSADM');
@@ -994,19 +993,9 @@ function sgpc1a_html(){
    
     <div class="postbox-container" id="side-container" style="width:24%;margin-left:1%">
             <div class="postbox">
-                <h3 style="padding:8px;"><label><?php _e('Our sponsors'); ?></label></h3>
+                <h3 style="padding:8px;"><label><?php _e('Epic Plugins'); ?></label></h3>
                 <div class="inside">
-					<script type="text/javascript"><!--
-					google_ad_client = "ca-pub-3482971524802798";
-					/* My Smash */
-					google_ad_slot = "8443033997";
-					google_ad_width = 250;
-					google_ad_height = 250;
-					//-->
-					</script>
-					<script type="text/javascript"
-					src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-					</script>
+				<a href = ""><img src = "http://epicplugins.com/wp-content/uploads/2013/12/epic-plugins.png" width = "270px"/></a>
             </div>
    </div>
    
