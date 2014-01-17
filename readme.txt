@@ -48,9 +48,9 @@ Along with our usual powerful
 *   5 Preset Compatibility "Modes"
 *	**It's Free**!
 
-= 29,850 + Blogs running Social Gallery! =
-*	Over 27,700 downloads of Social Gallery Lite
-*	Over 2,150 copies sold of [Social Gallery Pro](http://www.socialgalleryplugin.com "Social Gallery Plugin")
+= 33,000+ Blogs running Social Gallery! =
+*	Over 30,700 downloads of Social Gallery Lite
+*	Over 2,300 copies sold of [Social Gallery Pro](http://www.socialgalleryplugin.com "Social Gallery Plugin")
 *	Thanks to all of you awesome users!
 *  Please do rate the plugin :)
 
