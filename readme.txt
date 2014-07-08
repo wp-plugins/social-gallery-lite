@@ -14,7 +14,7 @@ Social Gallery is the Ultimate Social Lightbox Plugin for WordPress. This is the
 = The Ultimate Social Lightbox Plugin for WordPress =
 
 That's right – you can now get a Lite version of the best-selling [Social Gallery](http://www.socialgalleryplugin.com "Social Gallery Plugin") for Free!  
-It’s not quite as [feature packed](http://www.socialgalleryplugin.com/social-gallery-feature-list/ "Social Gallery Features") as [Social Gallery Pro](http://www.socialgalleryplugin.com "Social Gallery Plugin") but it’s still kick ass. If you are looking to test out Social Gallery or your on a small (or zero) budget you can get a copy here, just click the red "Download Version 2.2.4” button above.
+It’s not quite as [feature packed](http://www.socialgalleryplugin.com/social-gallery-feature-list/ "Social Gallery Features") as [Social Gallery Pro](http://www.socialgalleryplugin.com "Social Gallery Plugin") but it’s still kick ass. If you are looking to test out Social Gallery or your on a small (or zero) budget you can get a copy here, just click the red "Download Version 2.2.5” button above.
 
 Epicplugins has acquired the Social Gallery suite of plugins and is driving forward the development. 
 
