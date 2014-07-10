@@ -26,13 +26,14 @@ Version 3 of [Social Gallery Pro](http://www.socialgalleryplugin.com) has been r
 
 Along with our usual powerful
 
-*   [Support Forum Now Available](http://forums.epicplugins.com/)
+*   [Support Forum Now Available](http://epicplugins.com/help/)
 *   [Social Image Tagger Now Available](http://goo.gl/qdntTO)
 *   [Social Gallery VIDEO developed](http://goo.gl/QC8AQ)
 *   [Social Shortcodes is here](http://goo.gl/Iujb8Z)
 *   Happier users!
 *   [Setup Tutorial Guides](http://epicplugins.com/social-gallery-photo-tutorials/)
 *   Pride of the mantlepiece over at [Epicplugins](http://epicplugins.com/)
+*   Epic Hints and Tips from years of experience
 
 
 = Killer features of Social Gallery Lite =
