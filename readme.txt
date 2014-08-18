@@ -34,6 +34,7 @@ Along with our usual powerful
 *   [Setup Tutorial Guides](http://epicplugins.com/social-gallery-photo-tutorials/)
 *   Pride of the mantlepiece over at [Epicplugins](http://epicplugins.com/)
 *   Epic Hints and Tips from years of experience
+*   The Best Social Lightbox out there.
 
 
 = Killer features of Social Gallery Lite =
@@ -51,7 +52,7 @@ Along with our usual powerful
 
 = 40,000+ Blogs running Social Gallery! =
 *	Over 38,000 downloads of Social Gallery Lite
-*	Over 2,600 copies sold of [Social Gallery Pro](http://www.socialgalleryplugin.com "Social Gallery Plugin")
+*	Over 3,000 copies sold of [Social Gallery Pro](http://www.socialgalleryplugin.com "Social Gallery Plugin")
 *	Thanks to all of you awesome users!
 *  Please do rate the plugin :)
 
