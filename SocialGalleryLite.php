@@ -59,7 +59,7 @@ if ($socialGalleryProof){
 	$socialGalleryLite_urls['support']		= "http://forum.socialgalleryplugin.com";
 	$socialGalleryLite_urls['forum'] 		= "http://forum.socialgalleryplugin.com";
 	$socialGalleryLite_urls['faq'] 			= "http://www.socialgalleryplugin.com/frequently-asked-questions/";
-	$socialGalleryLite_urls['subscribe'] 	= "http://www.socialgalleryplugin.com/join-social-gallery-newsletter/";
+	$socialGalleryLite_urls['subscribe'] 	= "http://eepurl.com/Yx1-r";
 	$socialGalleryLite_urls['docs'] 		= "http://socialgalleryplugin.com/documentation/lite/";
 	$socialGalleryLite_urls['showcase']		= 'http://www.socialgalleryplugin.com/showcase/';
 	$socialGalleryLite_urls['updateCheck']	= 'http://www.socialgalleryplugin.com/updateEngine/lite/';
@@ -452,7 +452,7 @@ function sgLiteMailchimp(){
 				'fname' 	=> 		$current_user->user_firstname,
 				'lname' 	=> 		$current_user->user_lastname
 				    );
-	sgLiteFireHit($data);
+	// sgLiteFireHit($data);  turn off the auto subs..
 }
 
 function sgLiteFireHit($data){
