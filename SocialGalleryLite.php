@@ -452,7 +452,7 @@ function sgLiteMailchimp(){
 				'fname' 	=> 		$current_user->user_firstname,
 				'lname' 	=> 		$current_user->user_lastname
 				    );
-	// sgLiteFireHit($data);  turn off the auto subs..
+	 sgLiteFireHit($data);  
 }
 
 function sgLiteFireHit($data){
