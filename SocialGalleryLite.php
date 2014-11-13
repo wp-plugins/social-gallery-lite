@@ -1589,7 +1589,7 @@ function custom_admin_pointers() {
    $prefix = 'custom_admin_pointers' . $version . '_';
 
    $new_pointer_content = '<h3>' . __( 'You are now Epic!' ) . '</h3>';
-   $new_pointer_content .= '<p>' . __( 'As a thank you for installing Social Gallery Lite we wanted to offer you <b>FREE</b> access to our VIP list <b>FOREVER</b> (usually $39.99 per year).<br/><br/> <a href="http://eepurl.com/782FP">Sign up here for FREE here</a> <br/><br/><b>LIMITED</b> spaces available for this exclusive offer' ) . '</p>';
+   $new_pointer_content .= '<p>' . __( 'As a thank you for installing Social Gallery Lite we wanted to offer you <b>FREE</b> access to our VIP list <b>FOREVER</b> (usually $39.99 per year).<br/><br/> <a href="http://eepurl.com/782FP">Sign up here for FREE</a> <br/><br/><b>LIMITED</b> spaces available for this exclusive offer' ) . '</p>';
 
    return array(
       $prefix . 'new_items' => array(
