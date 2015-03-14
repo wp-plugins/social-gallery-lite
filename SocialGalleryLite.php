@@ -486,7 +486,6 @@ function sgp010f9_html(){
 	$premiumMsgShort = '<div class="socGalPremium">Pro Version Feature. <a href="'.$socialGalleryLite_urls['gopro'].'">Get Social Gallery Pro</a></div>';
 	
 		?>
-		<a href="http://epicplugins.com/pluginhunt"><img src = "https://epicplugins.com/wp-content/uploads/2014/12/plugin-hunt-theme-banner.png" /></a>
         <p id="sgpDesc">Here you can set the configuration options for your Social Gallery Plugin. Before changing anything please read our <a href="<?php echo $socialGalleryLite_urls['docs']; ?>" title="View Documentation" target="_blank">setup guide</a>.</p>
         <form action="?page=<?php echo $socialGalleryLite_slugs['settings']; ?>&save=1" method="post">
         <div id="socialGallerySettings">
@@ -1537,77 +1536,6 @@ function SGLite_custom_add_facebook_open_graph_tags() {
 }
 add_action('wp_head', 'SGLite_custom_add_facebook_open_graph_tags',1); 
 
-//the new pointers
-add_action( 'admin_enqueue_scripts', 'epic_custom_admin_pointers_header' );
-
-function epic_custom_admin_pointers_header() {
-   if ( custom_admin_pointers_check() ) {
-      add_action( 'admin_print_footer_scripts', 'custom_admin_pointers_footer' );
-
-      wp_enqueue_script( 'wp-pointer' );
-      wp_enqueue_style( 'wp-pointer' );
-   }
-}
-
-function custom_admin_pointers_check() {
-   $admin_pointers = custom_admin_pointers();
-   foreach ( $admin_pointers as $pointer => $array ) {
-      if ( $array['active'] )
-         return true;
-   }
-}
-
-function custom_admin_pointers_footer() {
-   $admin_pointers = custom_admin_pointers();
-   ?>
-<script type="text/javascript">
-/* <![CDATA[ */
-( function($) {
-   <?php
-   foreach ( $admin_pointers as $pointer => $array ) {
-      if ( $array['active'] ) {
-         ?>
-         $( '<?php echo $array['anchor_id']; ?>' ).pointer( {
-            content: '<?php echo $array['content']; ?>',
-            position: {
-            edge: '<?php echo $array['edge']; ?>',
-            align: '<?php echo $array['align']; ?>'
-         },
-            close: function() {
-               $.post( ajaxurl, {
-                  pointer: '<?php echo $pointer; ?>',
-                  action: 'dismiss-wp-pointer'
-               } );
-            }
-         } ).pointer( 'open' );
-         <?php
-      }
-   }
-   ?>
-} )(jQuery);
-/* ]]> */
-</script>
-   <?php
-}
-
-function custom_admin_pointers() {
-   $dismissed = explode( ',', (string) get_user_meta( get_current_user_id(), 'dismissed_wp_pointers', true ) );
-   $version = '1_0'; // replace all periods in 1.0 with an underscore
-   $prefix = 'custom_admin_pointers' . $version . '_';
-
-   $new_pointer_content = '<h3>' . __( 'You are now Epic!' ) . '</h3>';
-   $new_pointer_content .= '<p>' . __( 'As a thank you for installing Social Gallery Lite we wanted to offer you <b>FREE</b> access to our VIP list <b>FOREVER</b> (usually $39.99 per year).<br/><br/> <a href="http://eepurl.com/782FP">Sign up here for FREE</a> <br/><br/><b>LIMITED</b> spaces available for this exclusive offer' ) . '</p>';
-
-   return array(
-      $prefix . 'new_items' => array(
-         'content' => $new_pointer_content,
-         'anchor_id' => '#wp-admin-bar-new-content',
-         'edge' => 'top',
-         'align' => 'left',
-         'active' => ( ! in_array( $prefix . 'new_items', $dismissed ) )
-      ),
-   );
-}
 
 function sgpe24($value)
 {
