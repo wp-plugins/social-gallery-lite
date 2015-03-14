@@ -936,20 +936,7 @@ function sgpc1a_html(){
             <div class="postbox">
                 <h3 style="text-align:center"><label><img src="<?php echo plugins_url('/i/thanks-for-using-social-gallery.png',__FILE__); ?>" alt="Thanks For Using Social Gallery" style="margin:8px" /></label></h3>
 <div class="inside" style="text-align:center">
-	<p><h3>Join our Epic VIP Newsletter and find out:</h3>
-		<ul>
-			<li>* Why losing <strong>$33,000</strong> was the best thing to happen to us</li>
-			<li>* The latest on our Plugin and Theme Development</li>
-			<li>* Special <strong>Discounts</strong> and Launch Offers on our Plugins and Themes</li>
-		</ul>
-</p>
-         <form class="snp-subscribeform snp_subscribeform" action="//epicplugins.us6.list-manage.com/subscribe/post?u=1c0fcf180d7cda3d5add7ba76&amp;id=7e0200edcc" method="post">
-         <fieldset>
-			<input type="text" name="EMAIL" id="mce-EMAIL" placeholder="Your Email..." class="snp-field snp-field-email">
-			<input type="text" name="FNAME" id="mce-FNAME" placeholder="First Name..." class="snp-field snp-field-name">
-			<input type="submit" class="button-primary snp-subscribe-button snp-submit" data-loading="Please wait..." data-success="Thank you!" value="Sign me up!">
-        </fieldset>
-        </form>
+<script src="https://app.convertkit.com/landing_pages/1620.js?orient=horz"></script>
 </div>
 <br/><br/>
 <div class='mid' style="width:80%;text-align:center;margin:auto">
@@ -1105,7 +1092,6 @@ function sgp1bf8a8c(){}					function sgpbeaa2(){
 		<a href="<?php echo $socialGalleryLite_urls['home']; ?>" title="Social Gallery Plugin Homepage" target="_blank">Social Gallery Plugin.com</a> | 
 		<a href="<?php echo $socialGalleryLite_urls['faq']; ?>" title="Frequently Asked Questions" target="_blank">FAQ</a> | 
 		<a href="<?php echo $socialGalleryLite_urls['docs']; ?>" title="View Documentation" target="_blank">Documentation</a> | 
-		<a href="<?php echo $socialGalleryLite_urls['subscribe']; ?>" title="Join the Updates Newsletter List" target="_blank">Join Epic VIP</a> | 
 		<a href="<?php echo $socialGalleryLite_urls['gopro']; ?>" title="Become a Pro" target="_blank">Get Full Version</a> | Version <?php echo $socialGalleryLite_version; ?>
     </div>
 
