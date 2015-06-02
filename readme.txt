@@ -18,8 +18,9 @@ It’s not quite as [feature packed](http://www.socialgalleryplugin.com/social-g
 
 Epicplugins has acquired the Social Gallery suite of plugins and is driving forward the development. We have some Epic New Themes available [Check them out](https://epicplugins.com/two-new-epic-themes/)
 
+If you have any issues with the plugin please visit the support website [Social Gallery Pro](http://epicplugins.com/help/)
 
-Version 3 of [Social Gallery Pro](http://www.socialgalleryplugin.com) has been released with a load of new features
+Version 4.1 of [Social Gallery Pro](http://www.socialgalleryplugin.com) has been released with a load of new features
 
 *   Image tagging
 *   Improved functionality
