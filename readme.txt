@@ -52,8 +52,8 @@ Along with our usual powerful
 *	**It's Free**!
 
 = 40,000+ Blogs running Social Gallery! =
-*	Over 38,000 downloads of Social Gallery Lite
-*	Over 3,000 copies sold of [Social Gallery Pro](http://www.socialgalleryplugin.com "Social Gallery Plugin")
+*	Over 40,000 downloads of Social Gallery Lite
+*	Over 3,400 copies sold of [Social Gallery Pro](http://www.socialgalleryplugin.com "Social Gallery Plugin")
 *	Thanks to all of you awesome users!
 *  Please do rate the plugin :)
 
